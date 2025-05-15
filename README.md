@@ -24,14 +24,13 @@ A simple Flutter application that demonstrates a user registration flow with for
   </tr>
 </table>
 
-*Note: Replace with actual screenshots of your app*
 
 ## Getting Started
 
 ### Prerequisites
 
-- Flutter SDK (2.0.0 or higher)
-- Dart SDK (2.12.0 or higher)
+- Flutter SDK (3.29.3 or higher)
+- Dart SDK (3.7.2  or higher)
 - Android Studio / VS Code
 - Android Emulator / iOS Simulator / Physical device
 
