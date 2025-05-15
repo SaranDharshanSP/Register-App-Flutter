@@ -38,4 +38,4 @@ A simple Flutter application that demonstrates a user registration flow with for
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flutter_registration_app.git
+   git clone https://github.com/SaranDharshanSP/Register-App-Flutter
